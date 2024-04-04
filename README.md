@@ -26,4 +26,8 @@ Dichiariamo chi ha vinto.
 
 ### Svolgimento
 
-- testo
+- Funzione 1: Chiedo all'utente di scegliere tra "pari" e "dispari" e un numero tra 1 e 5 (verifico che siano rispettate entrambe le condizioni)
+- Funzione 2: genero un numero random per il computer
+- Sommo i due numeri (numero utente + numero random pc)
+- Funzione 3: Stabilisco se la somma dei due numeri è pari o dispari
+- Stampo il risultato
